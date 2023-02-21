@@ -30,4 +30,4 @@ def test_multiple_common_elements():
   
   ##Proof of Working Solution 
   
-  ![](quiz033.png)
+  <img width="1112" alt="quiz033" src="https://user-images.githubusercontent.com/111893043/220255401-1ffc3cd6-4c21-4b6b-ac1c-eb1db8c37a65.png">
